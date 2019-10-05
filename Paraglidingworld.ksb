@@ -1,0 +1,9 @@
+public class Paraglidingworld {
+
+	public static void main(string[] args) {
+	    // prints "Paragliding, world" to the terminal window.
+	    System.out.println("Paragliding, world);
+	}
+
+}
+
